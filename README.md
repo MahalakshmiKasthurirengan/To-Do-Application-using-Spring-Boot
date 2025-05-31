@@ -132,7 +132,7 @@ Feel free to fork the repo, raise issues, or create pull requests.
 
 ## 🤝 Connect
 
-For any queries or suggestions, feel free to contact \[[your-email@example.com](mailto:your-email@example.com)]
+For any queries or suggestions, feel free to contact \[[mahalakshmikasthurirengan22@gmail.com](mailto:mahalakshmikasthurirengan22@gmail.com)]
 
 ```
 
